@@ -1,0 +1,9 @@
+rootProject.name = 'proyecto-final-webA'
+include 'API-Gateway'
+include 'Servidor-Eureka'
+include 'Microservicio-Usuario'
+include 'Microservicio-CompraEvento'
+include 'Servidor-Autodescubrimiento'
+include 'Servidor-Configuracion'
+include 'Microservicio-Notificaciones'
+

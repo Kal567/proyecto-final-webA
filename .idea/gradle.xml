@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/API-Gateway" />
+            <option value="$PROJECT_DIR$/Microservicio-CompraEvento" />
+            <option value="$PROJECT_DIR$/Microservicio-Notificaciones" />
+            <option value="$PROJECT_DIR$/Microservicio-Usuario" />
+            <option value="$PROJECT_DIR$/Servidor-Autodescubrimiento" />
+            <option value="$PROJECT_DIR$/Servidor-Configuracion" />
+            <option value="$PROJECT_DIR$/Servidor-Eureka" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
