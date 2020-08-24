@@ -6,4 +6,5 @@ include 'Microservicio-CompraEvento'
 include 'Servidor-Autodescubrimiento'
 include 'Servidor-Configuracion'
 include 'Microservicio-Notificaciones'
+include 'Cliente-Eureka'
 
